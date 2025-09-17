@@ -29,8 +29,8 @@ A full-stack Lead Management System built with React, TypeScript, Node.js, Expre
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd lead-task-fullstack-enhanced
+   git clone (https://github.com/Mr-aj33t/-Lead-Management-Module)
+   cd Lead-Management-Module
    ```
 
 2. **Install dependencies**
@@ -51,7 +51,7 @@ A full-stack Lead Management System built with React, TypeScript, Node.js, Expre
 3. **Set up environment variables**
    Create a `.env` file in the root directory with the following variables:
    ```env
-   PORT=5000
+   PORT=5001
    MONGODB_URI=mongodb://localhost:27017/lead_management
    NODE_ENV=development
    ```
@@ -135,8 +135,8 @@ lead-task-fullstack-enhanced/
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/license/MIT) file for details.
 
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Ajeet Kumar
