@@ -1,0 +1,95 @@
+[2025-09-17T16:57:57.357Z] ERROR: Failed to connect to MongoDB: querySrv ETIMEOUT _mongodb._tcp.atlascluster.1ewklok.mongodb.net
+[2025-09-17T17:00:20.576Z] ERROR: Failed to connect to MongoDB: querySrv ETIMEOUT _mongodb._tcp.atlascluster.1ewklok.mongodb.net
+[2025-09-17T17:01:41.134Z] ERROR: Failed to connect to MongoDB: querySrv ETIMEOUT _mongodb._tcp.atlascluster.1ewklok.mongodb.net
+[2025-09-17T17:07:20.198Z] ERROR: Failed to start server: connectDB is not a function
+[2025-09-17T17:07:28.055Z] ERROR: Uncaught Exception: Error: Cannot find module 'express-async-handler'
+Require stack:
+- C:\Users\ajeet\Downloads\Copy of Task_Lead\Task_Lead\lead-task-fullstack-enhanced\server\controllers\leadController.js
+- C:\Users\ajeet\Downloads\Copy of Task_Lead\Task_Lead\lead-task-fullstack-enhanced\server\routes\leads.js
+- C:\Users\ajeet\Downloads\Copy of Task_Lead\Task_Lead\lead-task-fullstack-enhanced\server\index.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1401:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1057:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1062:22)
+    at Function._load (node:internal/modules/cjs/loader:1211:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1487:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (C:\Users\ajeet\Downloads\Copy of Task_Lead\Task_Lead\lead-task-fullstack-enhanced\server\controllers\leadController.js:1:22)
+    at Module._compile (node:internal/modules/cjs/loader:1730:14)
+[2025-09-17T17:07:33.738Z] ERROR: Uncaught Exception: Error: Cannot find module 'express-async-handler'
+Require stack:
+- C:\Users\ajeet\Downloads\Copy of Task_Lead\Task_Lead\lead-task-fullstack-enhanced\server\controllers\leadController.js
+- C:\Users\ajeet\Downloads\Copy of Task_Lead\Task_Lead\lead-task-fullstack-enhanced\server\routes\leads.js
+- C:\Users\ajeet\Downloads\Copy of Task_Lead\Task_Lead\lead-task-fullstack-enhanced\server\index.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1401:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1057:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1062:22)
+    at Function._load (node:internal/modules/cjs/loader:1211:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1487:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (C:\Users\ajeet\Downloads\Copy of Task_Lead\Task_Lead\lead-task-fullstack-enhanced\server\controllers\leadController.js:1:22)
+    at Module._compile (node:internal/modules/cjs/loader:1730:14)
+[2025-09-17T17:08:02.150Z] ERROR: Uncaught Exception: Error: Cannot find module 'express-async-handler'
+Require stack:
+- C:\Users\ajeet\Downloads\Copy of Task_Lead\Task_Lead\lead-task-fullstack-enhanced\server\controllers\leadController.js
+- C:\Users\ajeet\Downloads\Copy of Task_Lead\Task_Lead\lead-task-fullstack-enhanced\server\routes\leads.js
+- C:\Users\ajeet\Downloads\Copy of Task_Lead\Task_Lead\lead-task-fullstack-enhanced\server\index.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1401:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1057:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1062:22)
+    at Function._load (node:internal/modules/cjs/loader:1211:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1487:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (C:\Users\ajeet\Downloads\Copy of Task_Lead\Task_Lead\lead-task-fullstack-enhanced\server\controllers\leadController.js:1:22)
+    at Module._compile (node:internal/modules/cjs/loader:1730:14)
+[2025-09-17T17:08:21.167Z] ERROR: Uncaught Exception: Error: Cannot find module 'express-async-handler'
+Require stack:
+- C:\Users\ajeet\Downloads\Copy of Task_Lead\Task_Lead\lead-task-fullstack-enhanced\server\controllers\leadController.js
+- C:\Users\ajeet\Downloads\Copy of Task_Lead\Task_Lead\lead-task-fullstack-enhanced\server\routes\leads.js
+- C:\Users\ajeet\Downloads\Copy of Task_Lead\Task_Lead\lead-task-fullstack-enhanced\server\index.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1401:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1057:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1062:22)
+    at Function._load (node:internal/modules/cjs/loader:1211:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1487:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (C:\Users\ajeet\Downloads\Copy of Task_Lead\Task_Lead\lead-task-fullstack-enhanced\server\controllers\leadController.js:1:22)
+    at Module._compile (node:internal/modules/cjs/loader:1730:14)
+[2025-09-17T17:08:23.537Z] ERROR: Uncaught Exception: Error: Cannot find module 'express-async-handler'
+Require stack:
+- C:\Users\ajeet\Downloads\Copy of Task_Lead\Task_Lead\lead-task-fullstack-enhanced\server\controllers\leadController.js
+- C:\Users\ajeet\Downloads\Copy of Task_Lead\Task_Lead\lead-task-fullstack-enhanced\server\routes\leads.js
+- C:\Users\ajeet\Downloads\Copy of Task_Lead\Task_Lead\lead-task-fullstack-enhanced\server\index.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1401:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1057:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1062:22)
+    at Function._load (node:internal/modules/cjs/loader:1211:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1487:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (C:\Users\ajeet\Downloads\Copy of Task_Lead\Task_Lead\lead-task-fullstack-enhanced\server\controllers\leadController.js:1:22)
+    at Module._compile (node:internal/modules/cjs/loader:1730:14)
+[2025-09-17T17:08:27.776Z] ERROR: Uncaught Exception: Error: Cannot find module 'express-async-handler'
+Require stack:
+- C:\Users\ajeet\Downloads\Copy of Task_Lead\Task_Lead\lead-task-fullstack-enhanced\server\controllers\leadController.js
+- C:\Users\ajeet\Downloads\Copy of Task_Lead\Task_Lead\lead-task-fullstack-enhanced\server\routes\leads.js
+- C:\Users\ajeet\Downloads\Copy of Task_Lead\Task_Lead\lead-task-fullstack-enhanced\server\index.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1401:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1057:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1062:22)
+    at Function._load (node:internal/modules/cjs/loader:1211:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1487:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (C:\Users\ajeet\Downloads\Copy of Task_Lead\Task_Lead\lead-task-fullstack-enhanced\server\controllers\leadController.js:1:22)
+    at Module._compile (node:internal/modules/cjs/loader:1730:14)
+[2025-09-17T17:08:28.508Z] ERROR: Failed to start server: connectDB is not a function

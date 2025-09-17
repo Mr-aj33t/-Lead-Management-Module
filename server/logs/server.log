@@ -1,0 +1,210 @@
+[2025-09-17T16:57:09.194Z] ================================================================================
+[2025-09-17T16:57:09.196Z] Process started with PID: 20912
+[2025-09-17T16:57:09.197Z] Node version: v22.16.0
+[2025-09-17T16:57:09.197Z] Current directory: C:\Users\ajeet\Downloads\Copy of Task_Lead\Task_Lead\lead-task-fullstack-enhanced
+[2025-09-17T16:57:09.197Z] Environment: development
+[2025-09-17T16:57:09.198Z] ================================================================================
+[2025-09-17T16:57:09.198Z] Environment variables loaded:
+[2025-09-17T16:57:09.198Z]   MONGODB_URI=mongodb+srv://****:****@atlascluster.1ewklok.mongodb.net/lead_management?retryWrites=true&w=majority
+[2025-09-17T16:57:09.199Z]   NODE_ENV=development
+[2025-09-17T16:57:09.200Z]   NODE_EXE=C:\Program Files\nodejs\\node.exe
+[2025-09-17T16:57:09.200Z]   PORT=5001
+[2025-09-17T16:57:09.663Z] Connecting to: mongodb+srv://AJ:****@atlascluster.1ewklok.mongodb.net/lead_management?retryWrites=true&w=majority
+[2025-09-17T16:59:21.743Z] ================================================================================
+[2025-09-17T16:59:21.745Z] Process started with PID: 13484
+[2025-09-17T16:59:21.745Z] Node version: v22.16.0
+[2025-09-17T16:59:21.745Z] Current directory: C:\Users\ajeet\Downloads\Copy of Task_Lead\Task_Lead\lead-task-fullstack-enhanced
+[2025-09-17T16:59:21.746Z] Environment: development
+[2025-09-17T16:59:21.746Z] ================================================================================
+[2025-09-17T16:59:21.746Z] Environment variables loaded:
+[2025-09-17T16:59:21.747Z]   MONGODB_URI=mongodb+srv://****:****@atlascluster.1ewklok.mongodb.net/lead_management?retryWrites=true&w=majority
+[2025-09-17T16:59:21.747Z]   NODE_ENV=development
+[2025-09-17T16:59:21.748Z]   NODE_EXE=C:\Program Files\nodejs\\node.exe
+[2025-09-17T16:59:21.748Z]   PORT=5001
+[2025-09-17T16:59:22.201Z] Connecting to: mongodb+srv://AJ:****@atlascluster.1ewklok.mongodb.net/lead_management?retryWrites=true&w=majority
+[2025-09-17T16:59:23.279Z] ================================================================================
+[2025-09-17T16:59:23.281Z] Process started with PID: 19056
+[2025-09-17T16:59:23.281Z] Node version: v22.16.0
+[2025-09-17T16:59:23.281Z] Current directory: C:\Users\ajeet\Downloads\Copy of Task_Lead\Task_Lead\lead-task-fullstack-enhanced
+[2025-09-17T16:59:23.282Z] Environment: development
+[2025-09-17T16:59:23.282Z] ================================================================================
+[2025-09-17T16:59:23.282Z] Environment variables loaded:
+[2025-09-17T16:59:23.283Z]   MONGODB_URI=mongodb+srv://****:****@atlascluster.1ewklok.mongodb.net/lead_management?retryWrites=true&w=majority
+[2025-09-17T16:59:23.283Z]   NODE_ENV=development
+[2025-09-17T16:59:23.284Z]   NODE_EXE=C:\Program Files\nodejs\\node.exe
+[2025-09-17T16:59:23.284Z]   PORT=5001
+[2025-09-17T16:59:23.713Z] Connecting to: mongodb+srv://AJ:****@atlascluster.1ewklok.mongodb.net/lead_management?retryWrites=true&w=majority
+[2025-09-17T17:00:47.882Z] ================================================================================
+[2025-09-17T17:00:47.884Z] Process started with PID: 21572
+[2025-09-17T17:00:47.884Z] Node version: v22.16.0
+[2025-09-17T17:00:47.884Z] Current directory: C:\Users\ajeet\Downloads\Copy of Task_Lead\Task_Lead\lead-task-fullstack-enhanced
+[2025-09-17T17:00:47.885Z] Environment: development
+[2025-09-17T17:00:47.885Z] ================================================================================
+[2025-09-17T17:00:47.885Z] Environment variables loaded:
+[2025-09-17T17:00:47.886Z]   MONGODB_URI=mongodb+srv://****:****@atlascluster.1ewklok.mongodb.net/lead_management?retryWrites=true&w=majority
+[2025-09-17T17:00:47.886Z]   NODE_ENV=development
+[2025-09-17T17:00:47.887Z]   NODE_EXE=C:\Program Files\nodejs\\node.exe
+[2025-09-17T17:00:47.887Z]   PORT=5001
+[2025-09-17T17:00:48.337Z] Connecting to: mongodb+srv://AJ:****@atlascluster.1ewklok.mongodb.net/lead_management?retryWrites=true&w=majority
+[2025-09-17T17:02:06.669Z] ================================================================================
+[2025-09-17T17:02:06.671Z] Process started with PID: 24948
+[2025-09-17T17:02:06.671Z] Node version: v22.16.0
+[2025-09-17T17:02:06.672Z] Current directory: C:\Users\ajeet\Downloads\Copy of Task_Lead\Task_Lead\lead-task-fullstack-enhanced
+[2025-09-17T17:02:06.672Z] Environment: development
+[2025-09-17T17:02:06.672Z] ================================================================================
+[2025-09-17T17:02:06.672Z] Environment variables loaded:
+[2025-09-17T17:02:06.673Z]   MONGODB_URI=mongodb+srv://****:****@atlascluster.1ewklok.mongodb.net/lead_management?retryWrites=true&w=majority
+[2025-09-17T17:02:06.673Z]   NODE_ENV=development
+[2025-09-17T17:02:06.674Z]   NODE_EXE=C:\Program Files\nodejs\\node.exe
+[2025-09-17T17:02:06.674Z]   PORT=5001
+[2025-09-17T17:02:07.092Z] Connecting to: mongodb+srv://AJ:****@atlascluster.1ewklok.mongodb.net/lead_management?retryWrites=true&w=majority
+[2025-09-17T17:02:08.924Z] Connected to MongoDB database: lead_management
+[2025-09-17T17:02:08.928Z] Server running in development mode on port 5001
+[2025-09-17T17:02:09.027Z] [2025-09-17T17:02:09.027Z] GET /api/leads?page=1&limit=1000&status=
+[2025-09-17T17:02:09.737Z] [PERF] getLeads took 709ms
+[2025-09-17T17:02:09.742Z] [2025-09-17T17:02:09.742Z] GET /api/leads?page=1&limit=1000&status=
+[2025-09-17T17:02:09.894Z] [PERF] getLeads took 151ms
+[2025-09-17T17:02:12.921Z] [2025-09-17T17:02:12.921Z] GET /api/leads?page=1&limit=1000&status=
+[2025-09-17T17:02:13.659Z] [PERF] getLeads took 737ms
+[2025-09-17T17:02:13.662Z] [2025-09-17T17:02:13.662Z] GET /api/leads?page=1&limit=1000&status=
+[2025-09-17T17:02:14.368Z] [PERF] getLeads took 706ms
+[2025-09-17T17:07:19.433Z] ================================================================================
+[2025-09-17T17:07:19.437Z] Process started with PID: 20772
+[2025-09-17T17:07:19.438Z] Node version: v22.16.0
+[2025-09-17T17:07:19.438Z] Current directory: C:\Users\ajeet\Downloads\Copy of Task_Lead\Task_Lead\lead-task-fullstack-enhanced
+[2025-09-17T17:07:19.438Z] Environment: development
+[2025-09-17T17:07:19.439Z] ================================================================================
+[2025-09-17T17:07:19.439Z] Environment variables loaded:
+[2025-09-17T17:07:19.440Z]   MONGODB_URI=mongodb+srv://****:****@atlascluster.1ewklok.mongodb.net/lead_management?retryWrites=true&w=majority
+[2025-09-17T17:07:19.441Z]   NODE_ENV=development
+[2025-09-17T17:07:19.442Z]   NODE_EXE=C:\Program Files\nodejs\\node.exe
+[2025-09-17T17:07:19.443Z]   PORT=5001
+[2025-09-17T17:07:27.384Z] ================================================================================
+[2025-09-17T17:07:27.387Z] Process started with PID: 22832
+[2025-09-17T17:07:27.387Z] Node version: v22.16.0
+[2025-09-17T17:07:27.387Z] Current directory: C:\Users\ajeet\Downloads\Copy of Task_Lead\Task_Lead\lead-task-fullstack-enhanced
+[2025-09-17T17:07:27.388Z] Environment: development
+[2025-09-17T17:07:27.388Z] ================================================================================
+[2025-09-17T17:07:27.389Z] Environment variables loaded:
+[2025-09-17T17:07:27.390Z]   MONGODB_URI=mongodb+srv://****:****@atlascluster.1ewklok.mongodb.net/lead_management?retryWrites=true&w=majority
+[2025-09-17T17:07:27.391Z]   NODE_ENV=development
+[2025-09-17T17:07:27.392Z]   NODE_EXE=C:\Program Files\nodejs\\node.exe
+[2025-09-17T17:07:27.394Z]   PORT=5001
+[2025-09-17T17:07:32.895Z] ================================================================================
+[2025-09-17T17:07:32.898Z] Process started with PID: 23556
+[2025-09-17T17:07:32.899Z] Node version: v22.16.0
+[2025-09-17T17:07:32.900Z] Current directory: C:\Users\ajeet\Downloads\Copy of Task_Lead\Task_Lead\lead-task-fullstack-enhanced
+[2025-09-17T17:07:32.900Z] Environment: development
+[2025-09-17T17:07:32.901Z] ================================================================================
+[2025-09-17T17:07:32.901Z] Environment variables loaded:
+[2025-09-17T17:07:32.902Z]   MONGODB_URI=mongodb+srv://****:****@atlascluster.1ewklok.mongodb.net/lead_management?retryWrites=true&w=majority
+[2025-09-17T17:07:32.903Z]   NODE_ENV=development
+[2025-09-17T17:07:32.904Z]   NODE_EXE=C:\Program Files\nodejs\\node.exe
+[2025-09-17T17:07:32.904Z]   PORT=5001
+[2025-09-17T17:07:33.220Z] ================================================================================
+[2025-09-17T17:07:33.223Z] Process started with PID: 11184
+[2025-09-17T17:07:33.223Z] Node version: v22.16.0
+[2025-09-17T17:07:33.224Z] Current directory: C:\Users\ajeet\Downloads\Copy of Task_Lead\Task_Lead\lead-task-fullstack-enhanced
+[2025-09-17T17:07:33.225Z] Environment: development
+[2025-09-17T17:07:33.226Z] ================================================================================
+[2025-09-17T17:07:33.226Z] Environment variables loaded:
+[2025-09-17T17:07:33.227Z]   MONGODB_URI=mongodb+srv://****:****@atlascluster.1ewklok.mongodb.net/lead_management?retryWrites=true&w=majority
+[2025-09-17T17:07:33.227Z]   NODE_ENV=development
+[2025-09-17T17:07:33.228Z]   NODE_EXE=C:\Program Files\nodejs\\node.exe
+[2025-09-17T17:07:33.228Z]   PORT=5001
+[2025-09-17T17:08:01.728Z] ================================================================================
+[2025-09-17T17:08:01.730Z] Process started with PID: 25112
+[2025-09-17T17:08:01.730Z] Node version: v22.16.0
+[2025-09-17T17:08:01.730Z] Current directory: C:\Users\ajeet\Downloads\Copy of Task_Lead\Task_Lead\lead-task-fullstack-enhanced
+[2025-09-17T17:08:01.731Z] Environment: development
+[2025-09-17T17:08:01.731Z] ================================================================================
+[2025-09-17T17:08:01.731Z] Environment variables loaded:
+[2025-09-17T17:08:01.732Z]   MONGODB_URI=mongodb+srv://****:****@atlascluster.1ewklok.mongodb.net/lead_management?retryWrites=true&w=majority
+[2025-09-17T17:08:01.732Z]   NODE_ENV=development
+[2025-09-17T17:08:01.732Z]   NODE_EXE=C:\Program Files\nodejs\\node.exe
+[2025-09-17T17:08:01.732Z]   PORT=5001
+[2025-09-17T17:08:20.745Z] ================================================================================
+[2025-09-17T17:08:20.746Z] Process started with PID: 20900
+[2025-09-17T17:08:20.746Z] Node version: v22.16.0
+[2025-09-17T17:08:20.747Z] Current directory: C:\Users\ajeet\Downloads\Copy of Task_Lead\Task_Lead\lead-task-fullstack-enhanced
+[2025-09-17T17:08:20.747Z] Environment: development
+[2025-09-17T17:08:20.747Z] ================================================================================
+[2025-09-17T17:08:20.747Z] Environment variables loaded:
+[2025-09-17T17:08:20.748Z]   MONGODB_URI=mongodb+srv://****:****@atlascluster.1ewklok.mongodb.net/lead_management?retryWrites=true&w=majority
+[2025-09-17T17:08:20.749Z]   NODE_ENV=development
+[2025-09-17T17:08:20.749Z]   NODE_EXE=C:\Program Files\nodejs\\node.exe
+[2025-09-17T17:08:20.750Z]   PORT=5001
+[2025-09-17T17:08:22.487Z] ================================================================================
+[2025-09-17T17:08:22.489Z] Process started with PID: 25460
+[2025-09-17T17:08:22.489Z] Node version: v22.16.0
+[2025-09-17T17:08:22.490Z] Current directory: C:\Users\ajeet\Downloads\Copy of Task_Lead\Task_Lead\lead-task-fullstack-enhanced
+[2025-09-17T17:08:22.490Z] Environment: development
+[2025-09-17T17:08:22.490Z] ================================================================================
+[2025-09-17T17:08:22.491Z] Environment variables loaded:
+[2025-09-17T17:08:22.491Z]   MONGODB_URI=mongodb+srv://****:****@atlascluster.1ewklok.mongodb.net/lead_management?retryWrites=true&w=majority
+[2025-09-17T17:08:22.491Z]   NODE_ENV=development
+[2025-09-17T17:08:22.492Z]   NODE_EXE=C:\Program Files\nodejs\\node.exe
+[2025-09-17T17:08:22.492Z]   PORT=5001
+[2025-09-17T17:08:23.087Z] ================================================================================
+[2025-09-17T17:08:23.089Z] Process started with PID: 21744
+[2025-09-17T17:08:23.089Z] Node version: v22.16.0
+[2025-09-17T17:08:23.089Z] Current directory: C:\Users\ajeet\Downloads\Copy of Task_Lead\Task_Lead\lead-task-fullstack-enhanced
+[2025-09-17T17:08:23.090Z] Environment: development
+[2025-09-17T17:08:23.090Z] ================================================================================
+[2025-09-17T17:08:23.090Z] Environment variables loaded:
+[2025-09-17T17:08:23.091Z]   MONGODB_URI=mongodb+srv://****:****@atlascluster.1ewklok.mongodb.net/lead_management?retryWrites=true&w=majority
+[2025-09-17T17:08:23.092Z]   NODE_ENV=development
+[2025-09-17T17:08:23.092Z]   NODE_EXE=C:\Program Files\nodejs\\node.exe
+[2025-09-17T17:08:23.092Z]   PORT=5001
+[2025-09-17T17:08:27.308Z] ================================================================================
+[2025-09-17T17:08:27.309Z] Process started with PID: 21880
+[2025-09-17T17:08:27.309Z] Node version: v22.16.0
+[2025-09-17T17:08:27.310Z] Current directory: C:\Users\ajeet\Downloads\Copy of Task_Lead\Task_Lead\lead-task-fullstack-enhanced
+[2025-09-17T17:08:27.310Z] Environment: development
+[2025-09-17T17:08:27.310Z] ================================================================================
+[2025-09-17T17:08:27.311Z] Environment variables loaded:
+[2025-09-17T17:08:27.311Z]   MONGODB_URI=mongodb+srv://****:****@atlascluster.1ewklok.mongodb.net/lead_management?retryWrites=true&w=majority
+[2025-09-17T17:08:27.311Z]   NODE_ENV=development
+[2025-09-17T17:08:27.312Z]   NODE_EXE=C:\Program Files\nodejs\\node.exe
+[2025-09-17T17:08:27.312Z]   PORT=5001
+[2025-09-17T17:08:28.076Z] ================================================================================
+[2025-09-17T17:08:28.077Z] Process started with PID: 10068
+[2025-09-17T17:08:28.078Z] Node version: v22.16.0
+[2025-09-17T17:08:28.078Z] Current directory: C:\Users\ajeet\Downloads\Copy of Task_Lead\Task_Lead\lead-task-fullstack-enhanced
+[2025-09-17T17:08:28.078Z] Environment: development
+[2025-09-17T17:08:28.079Z] ================================================================================
+[2025-09-17T17:08:28.079Z] Environment variables loaded:
+[2025-09-17T17:08:28.080Z]   MONGODB_URI=mongodb+srv://****:****@atlascluster.1ewklok.mongodb.net/lead_management?retryWrites=true&w=majority
+[2025-09-17T17:08:28.080Z]   NODE_ENV=development
+[2025-09-17T17:08:28.081Z]   NODE_EXE=C:\Program Files\nodejs\\node.exe
+[2025-09-17T17:08:28.081Z]   PORT=5001
+[2025-09-17T17:08:34.997Z] ================================================================================
+[2025-09-17T17:08:34.998Z] Process started with PID: 21940
+[2025-09-17T17:08:34.998Z] Node version: v22.16.0
+[2025-09-17T17:08:34.999Z] Current directory: C:\Users\ajeet\Downloads\Copy of Task_Lead\Task_Lead\lead-task-fullstack-enhanced
+[2025-09-17T17:08:34.999Z] Environment: development
+[2025-09-17T17:08:34.999Z] ================================================================================
+[2025-09-17T17:08:34.999Z] Environment variables loaded:
+[2025-09-17T17:08:35.000Z]   MONGODB_URI=mongodb+srv://****:****@atlascluster.1ewklok.mongodb.net/lead_management?retryWrites=true&w=majority
+[2025-09-17T17:08:35.001Z]   NODE_ENV=development
+[2025-09-17T17:08:35.001Z]   NODE_EXE=C:\Program Files\nodejs\\node.exe
+[2025-09-17T17:08:35.001Z]   PORT=5001
+[2025-09-17T17:08:35.443Z] Connecting to: mongodb+srv://AJ:****@atlascluster.1ewklok.mongodb.net/lead_management?retryWrites=true&w=majority
+[2025-09-17T17:08:36.722Z] Connected to MongoDB database: lead_management
+[2025-09-17T17:08:36.727Z] Server running in development mode on port 5001
+[2025-09-17T17:08:42.608Z] [2025-09-17T17:08:42.608Z] GET /api/leads?page=1&limit=1000&status=
+[2025-09-17T17:08:42.694Z] [PERF] getLeads took 85ms
+[2025-09-17T17:08:42.698Z] [2025-09-17T17:08:42.698Z] GET /api/leads?page=1&limit=1000&status=
+[2025-09-17T17:08:42.772Z] [PERF] getLeads took 73ms
+[2025-09-17T17:08:45.484Z] [2025-09-17T17:08:45.484Z] GET /api/leads?page=1&limit=1000&status=
+[2025-09-17T17:08:45.561Z] [PERF] getLeads took 77ms
+[2025-09-17T17:08:45.563Z] [2025-09-17T17:08:45.563Z] GET /api/leads?page=1&limit=1000&status=
+[2025-09-17T17:08:45.633Z] [PERF] getLeads took 69ms
+[2025-09-17T17:08:50.885Z] [2025-09-17T17:08:50.885Z] GET /api/leads?page=1&limit=1000&status=
+[2025-09-17T17:08:50.959Z] [PERF] getLeads took 73ms
+[2025-09-17T17:08:50.961Z] [2025-09-17T17:08:50.961Z] GET /api/leads?page=1&limit=1000&status=
+[2025-09-17T17:08:51.033Z] [PERF] getLeads took 72ms
+[2025-09-17T17:08:52.101Z] [2025-09-17T17:08:52.101Z] GET /api/leads?page=1&limit=1000&status=
+[2025-09-17T17:08:52.188Z] [PERF] getLeads took 87ms
+[2025-09-17T17:08:52.190Z] [2025-09-17T17:08:52.190Z] GET /api/leads?page=1&limit=1000&status=
+[2025-09-17T17:08:52.265Z] [PERF] getLeads took 75ms

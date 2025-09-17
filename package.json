@@ -1,0 +1,26 @@
+{
+    "name": "lead-evaluation-task",
+    "version": "1.0.0",
+    "description": "Fullstack Lead Management Application",
+    "private": true,
+    "scripts": {
+        "start": "node server/index.js",
+        "server": "nodemon server/index.js",
+        "client": "cd client && npm run dev",
+        "dev": "concurrently \"npm run server\" \"npm run client\"",
+        "install:all": "npm install && cd client && npm install",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "workspaces": [
+        "client",
+        "server"
+    ],
+    "dependencies": {
+        "concurrently": "^8.2.0",
+        "dotenv": "^16.3.1",
+        "mongodb": "^6.19.0"
+    },
+    "devDependencies": {
+        "nodemon": "^3.0.1"
+    }
+}
