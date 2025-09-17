@@ -70,7 +70,6 @@ A full-stack Lead Management System built with React, TypeScript, Node.js, Expre
 ```
 lead-task-fullstack-enhanced/
 ├── client/                 # Frontend React application
-│   ├── public/             # Static files
 │   └── src/                # Source files
 │       ├── components/      # Reusable UI components
 │       ├── pages/           # Page components
